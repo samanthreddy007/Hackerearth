@@ -1,0 +1,9 @@
+
+Feature Engineering:
+1.Replaced -1's with mode of column
+2.One hot encoding on categorical columns
+3. Through RandomForest , some of the features are eliminated with less feature importance
+
+Models:
+1. LGB and logistic regression with stacking is used and Stratified Kfold is used with K=3
+
