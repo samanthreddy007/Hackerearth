@@ -1,0 +1,7 @@
+Approach:
+1.3 Conv layers and Max pooling
+2. Rescaling
+3. Softmax activation
+3. Creating validation sets
+Feature enginnering:
+Reshape input shape to (256,256,3)
